@@ -1,7 +1,7 @@
 # Real-Time Sign Language Recognition on Smartphones via MobileNetV2 and Edge Impulse
 
-JINMING XIA 
-github: https://github.com/JINMING2333/casa0018_coursework
+JINMING XIA<br>  
+github: https://github.com/JINMING2333/casa0018_coursework<br>
 edge impluse link: https://studio.edgeimpulse.com/studio/679174
 
 ## Introduction
@@ -11,6 +11,8 @@ Sign language is one of the most important ways for deaf people to communicate w
   <img src="../image/01.png" alt="Sign Language Communication Barrier" width="500"/>
   <p>Fig.1</p>
 </div>
+
+
 
 *Tip: probably ~200 words and images are good!*
 
