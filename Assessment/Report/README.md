@@ -1,11 +1,16 @@
-# Report title goes here
+# Real-Time Sign Language Recognition on Smartphones via MobileNetV2 and Edge Impulse
 
-Name of author, link to github repo with project work in / link to Edge Impulse projects
+JINMING XIA 
+github: https://github.com/JINMING2333/casa0018_coursework
+edge impluse link: https://studio.edgeimpulse.com/studio/679174
 
 ## Introduction
-- an overview of what the project does
-- your inspiration for making the project 
-- examples that it is based on. 
+Sign language is one of the most important ways for deaf people to communicate with the outside world. However, most able-bodied individuals cannot understand sign language (Fig.1), which becomes a barrier for hearing-impaired individuals to integrate into society (Wei Hao et al, 2024 ). Therefore, this project aims to develop a lightweight sign language recognition system based on a smartphone camera, through real-time image recognition and classification, in order to improve the communication convenience between hearing-impaired individuals and able-bodied individuals.
+
+<div align="center">
+  <img src="../image/01.png" alt="Sign Language Communication Barrier" width="500"/>
+  <p>Fig.1</p>
+</div>
 
 *Tip: probably ~200 words and images are good!*
 
